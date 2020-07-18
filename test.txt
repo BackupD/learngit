@@ -1,0 +1,6 @@
+#!/usr/bin/python
+# -*- coding=utf -*-
+
+import os
+
+print("Welcome to the Python world!")
