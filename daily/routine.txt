@@ -7,7 +7,8 @@ readme first
 2.learn how to image the
 3.ratification
 4.instruction
-5.dissertion
+----5.dissertion
 
 
 6.technology
+7.this sentence is from services 
